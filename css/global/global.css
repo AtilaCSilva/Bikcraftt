@@ -2,14 +2,15 @@
 body {
   margin: 0;
   font-family: Arial, Helvetica, sans-serif;
-  padding-bottom: 600px;
   color: #111111;
 }
 
 h1,
 h2,
 h3,
-p, ul {
+p, ul,
+li, 
+a, blockquote {
   margin: 0;
 }
 
