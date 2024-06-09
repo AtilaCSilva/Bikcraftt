@@ -21,7 +21,6 @@
 
 .contato-formulario {
   border-radius: 0 5px 5px 0;
-  background:;
   background:  var(--cor-0) url("../../img/dec/bottom-right.svg") no-repeat bottom 20px right 20px;
 }
 
